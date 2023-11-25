@@ -30,7 +30,16 @@ document.write(3+3);
 
 
 //Button Function
-function My_First_Function () {
+function My_First_Function() {
     var str = "This is the button text!";
     document.getElementById("Button_Text").innerHTML = str;
+}
+
+//Mouse over event
+function mouseOver(element) {
+    element.style.color= "red";
+}
+
+function mouseOut(element) {
+    element.style.color= "black";
 }
