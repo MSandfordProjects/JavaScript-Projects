@@ -11,4 +11,12 @@ function myFunction() {
     var sentence = "I am learning"; //variable 1
     sentence += " a lot from this course!"; // concatenate variable using += operator
     document.getElementById("Concatenate").innerHTML = sentence;
+};
+
+
+// Own Function and document.getElementById
+function adding() {
+    var question = document.getElementById("added_Eg"); //Grab Element
+    var answer = (389 * 428); // Text change variable
+    question.innerHTML = answer; // Text change
 }
