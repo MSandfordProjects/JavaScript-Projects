@@ -1,6 +1,6 @@
 # JavaScript-Projects
 ---
- My Academy of learning Projects
+ My Academy of learning Projects<br>
 This repository displays what I learned throughout my assignments with my JavaScript projects through Academy of learning.
 
 ## Projects
